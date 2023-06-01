@@ -5,6 +5,7 @@ A simple way to use environment variables in Node.js and other environments.
 -   [x] Load all configs
 -   [x] Cache support
 -   [x] Namespace support
+-   [x] Load to `process.env` support
 
 ## Usages
 
