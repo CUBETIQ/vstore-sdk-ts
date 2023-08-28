@@ -5,8 +5,8 @@ export class VStore {
     private static readonly _logger = console;
 
     private static readonly NAME = 'vstore';
-    private static readonly VERSION = '0.0.1';
-    private static readonly VERSION_CODE = '1';
+    private static readonly VERSION = '0.0.2';
+    private static readonly VERSION_CODE = '2';
 
     private readonly _config: VConfig;
 
